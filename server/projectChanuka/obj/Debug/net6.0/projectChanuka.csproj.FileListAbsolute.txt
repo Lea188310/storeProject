@@ -1,0 +1,137 @@
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\appsettings.Development.json
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\appsettings.json
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\projectChanuka.exe
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\projectChanuka.deps.json
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\projectChanuka.runtimeconfig.json
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\projectChanuka.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\projectChanuka.pdb
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Humanizer.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\System.Drawing.Common.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\System.Runtime.Caching.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\System.Security.Permissions.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\System.Windows.Extensions.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\projectChanuka.csproj.AssemblyReference.cache
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\projectChanuka.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\projectChanuka.AssemblyInfoInputs.cache
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\projectChanuka.AssemblyInfo.cs
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\projectChanuka.csproj.CoreCompileInputs.cache
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\projectChanuka.MvcApplicationPartsAssemblyInfo.cs
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\projectChanuka.MvcApplicationPartsAssemblyInfo.cache
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\staticwebassets.build.json
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\staticwebassets.development.json
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\scopedcss\bundle\projectChanuka.styles.css
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\projectChanuka.csproj.CopyComplete
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\projectChanuka.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\refint\projectChanuka.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\projectChanuka.pdb
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\projectChanuka.genruntimeconfig.cache
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\ref\projectChanuka.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\AutoMapper.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\BL.dll
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\BL.pdb
+Z:\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\projectChanuka.staticwebassets.runtime.json
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\projectChanuka.csproj.AssemblyReference.cache
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\projectChanuka.GeneratedMSBuildEditorConfig.editorconfig
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\projectChanuka.AssemblyInfoInputs.cache
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\projectChanuka.AssemblyInfo.cs
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\projectChanuka.csproj.CoreCompileInputs.cache
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\projectChanuka.MvcApplicationPartsAssemblyInfo.cs
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\projectChanuka.MvcApplicationPartsAssemblyInfo.cache
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\projectChanuka.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\refint\projectChanuka.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\projectChanuka.pdb
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\AutoMapper.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Humanizer.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\BL.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\DAL.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\DTO.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\BL.pdb
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\DAL.pdb
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\bin\Debug\net6.0\DTO.pdb
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\staticwebassets.build.json
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\staticwebassets.development.json
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\projectChanuka\obj\Debug\net6.0\scopedcss\bundle\projectChanuka.styles.css
+Z:\server\projectChanuka\obj\Debug\net6.0\projectChanuka.csproj.AssemblyReference.cache
+Z:\server\projectChanuka\obj\Debug\net6.0\projectChanuka.GeneratedMSBuildEditorConfig.editorconfig
+Z:\server\projectChanuka\obj\Debug\net6.0\projectChanuka.AssemblyInfoInputs.cache
+Z:\server\projectChanuka\obj\Debug\net6.0\projectChanuka.AssemblyInfo.cs
+Z:\server\projectChanuka\obj\Debug\net6.0\projectChanuka.csproj.CoreCompileInputs.cache
+Z:\server\projectChanuka\obj\Debug\net6.0\projectChanuka.MvcApplicationPartsAssemblyInfo.cs
+Z:\server\projectChanuka\obj\Debug\net6.0\projectChanuka.MvcApplicationPartsAssemblyInfo.cache
+Z:\server\projectChanuka\obj\Debug\net6.0\projectChanuka.dll
+Z:\server\projectChanuka\obj\Debug\net6.0\refint\projectChanuka.dll
+Z:\server\projectChanuka\obj\Debug\net6.0\projectChanuka.pdb

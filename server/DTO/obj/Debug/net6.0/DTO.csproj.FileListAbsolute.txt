@@ -1,0 +1,45 @@
+Z:\פרויקט חנוכה מעודכן\server\DTO\bin\Debug\net6.0\DTO.deps.json
+Z:\פרויקט חנוכה מעודכן\server\DTO\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט חנוכה מעודכן\server\DTO\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט חנוכה מעודכן\server\DTO\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט חנוכה מעודכן\server\DTO\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט חנוכה מעודכן\server\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+Z:\פרויקט חנוכה מעודכן\server\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט חנוכה מעודכן\server\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+Z:\פרויקט חנוכה מעודכן\server\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+Z:\פרויקט חנוכה מעודכן\server\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+Z:\פרויקט חנוכה מעודכן\server\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+Z:\פרויקט חנוכה מעודכן\server\DTO\obj\Debug\net6.0\DTO.dll
+Z:\פרויקט חנוכה מעודכן\server\DTO\obj\Debug\net6.0\refint\DTO.dll
+Z:\פרויקט חנוכה מעודכן\server\DTO\obj\Debug\net6.0\DTO.pdb
+Z:\פרויקט חנוכה מעודכן\server\DTO\obj\Debug\net6.0\ref\DTO.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\DTO\bin\Debug\net6.0\DTO.deps.json
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\DTO\bin\Debug\net6.0\DTO.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\DTO\bin\Debug\net6.0\DTO.pdb
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\DTO\bin\Debug\net6.0\DAL.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\DTO\bin\Debug\net6.0\DAL.pdb
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\DTO\obj\Debug\net6.0\DTO.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\DTO\obj\Debug\net6.0\refint\DTO.dll
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\DTO\obj\Debug\net6.0\DTO.pdb
+Y:\מחזור6\תיכנות\לאה וויינר\פרויקט חנוכה מעודכן\server\DTO\obj\Debug\net6.0\ref\DTO.dll
+Z:\server\DTO\bin\Debug\net6.0\DTO.deps.json
+Z:\server\DTO\bin\Debug\net6.0\DTO.dll
+Z:\server\DTO\bin\Debug\net6.0\DTO.pdb
+Z:\server\DTO\bin\Debug\net6.0\DAL.dll
+Z:\server\DTO\bin\Debug\net6.0\DAL.pdb
+Z:\server\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+Z:\server\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\server\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+Z:\server\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+Z:\server\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+Z:\server\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+Z:\server\DTO\obj\Debug\net6.0\DTO.dll
+Z:\server\DTO\obj\Debug\net6.0\refint\DTO.dll
+Z:\server\DTO\obj\Debug\net6.0\DTO.pdb
+Z:\server\DTO\obj\Debug\net6.0\ref\DTO.dll
